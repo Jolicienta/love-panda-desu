@@ -1,0 +1,5 @@
+@media (min-width:980x) {
+  [class*="col-"] {
+    width: 100%;
+  }
+}
